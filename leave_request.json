@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "sender": "alice@company.com",
+    "type": "leave_request"
+  },
+  {
+    "id": 3,
+    "sender": "charlie@client.com",
+    "type": "leave_request"
+  },
+  {
+    "id": 5,
+    "sender": "eva@client.com",
+    "type": "leave_request"
+  },
+  {
+    "id": 7,
+    "sender": "grace@client.com",
+    "type": "leave_request"
+  },
+  {
+    "id": 9,
+    "sender": "irene@client.com",
+    "type": "leave_request"
+  },
+  {
+    "id": 11,
+    "sender": "karen@client.com",
+    "type": "leave_request"
+  },
+  {
+    "id": 13,
+    "sender": "mona@client.com",
+    "type": "leave_request"
+  },
+  {
+    "id": 15,
+    "sender": "olivia@client.com",
+    "type": "leave_request"
+  },
+  {
+    "id": 17,
+    "sender": "quinn@client.com",
+    "type": "leave_request"
+  },
+  {
+    "id": 19,
+    "sender": "sam@client.com",
+    "type": "leave_request"
+  }
+]
